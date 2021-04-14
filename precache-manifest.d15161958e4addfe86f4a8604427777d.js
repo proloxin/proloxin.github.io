@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "71990d0ea3f68547f8ad",
+    "revision": "328b45b6fa717a3afd60",
     "url": "/css/app.5945a04a.css"
   },
   {
-    "revision": "71990d0ea3f68547f8ad",
-    "url": "/js/app.a7b1582a.js"
+    "revision": "328b45b6fa717a3afd60",
+    "url": "/js/app.bf7ebb70.js"
   },
   {
     "revision": "81c84f9781cd7a99dcca",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-2b3fadee.a20cd943.js"
   },
   {
-    "revision": "f234e3134299bc09e2c2",
-    "url": "/js/chunk-2d0cf3bf.9d3b1d26.js"
+    "revision": "9120b26d8e3cb94077c2",
+    "url": "/js/chunk-2d0cf3bf.fc359cef.js"
   },
   {
     "revision": "ca18987b9be522783833",
@@ -76,16 +76,16 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.5b41036e.js"
   },
   {
-    "revision": "a782baa8633b1359f9686ffad17e0d76",
-    "url": "/fonts/fontello.a782baa8.woff"
-  },
-  {
     "revision": "e73a0647198cfe970de0f003be95cc51",
     "url": "/fonts/fontello.e73a0647.eot"
   },
   {
     "revision": "8d4a4e6f7431d0d7fa92b1df20f38161",
     "url": "/fonts/fontello.8d4a4e6f.woff2"
+  },
+  {
+    "revision": "a782baa8633b1359f9686ffad17e0d76",
+    "url": "/fonts/fontello.a782baa8.woff"
   },
   {
     "revision": "068ca2b316db98037bebdd1e4f1b9459",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/img/fontello.9354499c.svg"
   },
   {
-    "revision": "86479855fe1e191b9e1280afb8f6a088",
+    "revision": "3d644948189aa65736279e9fad6fd4eb",
     "url": "/index.html"
   },
   {
